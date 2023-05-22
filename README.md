@@ -6,7 +6,7 @@
         I'm Rohan.<br>
         Currently Pursuing Machine Learning and Deep Learning with a Strong Emphasis on Generative Solutions.<br>
         Open to collaborating on interesting and innovative projects.<br>
-        Stats Below!.<br>
+        Stats Below!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
