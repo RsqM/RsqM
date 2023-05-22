@@ -40,7 +40,7 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/RsqM)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/RsqM)
 
-<details>
+### Statistics
 <p align="center">
   <a href="https://github.com/RsqM">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RsqM&theme=transparent" />
@@ -55,8 +55,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsqM&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
-
 <p align="center">
   <a href="https://github.com/RsqM">
     <img src="https://komarev.com/ghpvc/?username=RsqM&color=blue&style=flat)" />
