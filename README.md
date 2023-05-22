@@ -62,7 +62,7 @@
   <a href="https://github.com/RsqM">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RsqM&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
    </a>
-    # 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RsqM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RsqM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RsqM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
