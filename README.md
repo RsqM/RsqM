@@ -4,9 +4,9 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Rohan.<br>
-        Currently diving deep into Machine Learning and Deep Learning, exploring how models learn, adapt, and (hopefully) don’t overfit their way into oblivion. Whether it’s fine-tuning architectures, making sense of messy data, or trying to squeeze out that last bit of performance, I love the process of turning raw data into real insights.
+        Currently deep into Machine Learning and Deep Learning, where models learn, weights adjust, and occasionally, things just refuse to converge. Whether it’s fine-tuning architectures, wrangling messy data, or chasing that last bit of performance, I love the challenge of turning numbers into something meaningful.
 
-Always excited to collaborate on interesting and impactful projects—because the best solutions don’t come from just crunching numbers but from asking the right questions. If you're into building smart systems, pushing boundaries, or just geeking out over ML, let’s connect! <br>
+Always excited to collaborate on interesting and impactful projects—because the best models don’t just memorize data; they actually understand it (unlike some frameworks that shall not be named 👀). If you're into building smart systems, pushing boundaries, or just agreeing that PyTorch > TensorFlow, let’s connect! <br>
         Stats Below!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
