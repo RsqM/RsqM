@@ -1,6 +1,6 @@
 <h1 align="center">logits = torch.softmax(torch.tensor([‘Hello!’, ‘Hi!’, ‘Hey!’]), dim=0); print(logits.argmax()) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
-<p align="center">
+<p align="left">
   <b>Welcome to my page!</b><br><br>
   <i>
     I'm Rohan.<br>
