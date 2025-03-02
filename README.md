@@ -4,18 +4,28 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Rohan.<br>
-        Currently deep into Machine Learning and Deep Learning, where models learn, weights adjust, and occasionally, things just refuse to converge. Whether it’s fine-tuning architectures, wrangling messy data, or chasing that last bit of performance, I love the challenge of turning numbers into something meaningful.
+        Currently deep into Machine Learning and Deep Learning, where models learn, weights adjust, 
+        and occasionally, things just refuse to converge. Whether it’s fine-tuning architectures, 
+        wrangling messy data, or chasing that last bit of performance, I love the challenge of 
+        turning numbers into something meaningful.<br><br>
 
-Always excited to collaborate on interesting and impactful projects—because the best models don’t just memorize data; they actually understand it (unlike some frameworks that shall not be named 👀). If you're into building smart systems, pushing boundaries, or just agreeing that PyTorch > TensorFlow, let’s connect! <br>
-        Stats Below!<br>
-    </i><br>
+        Always excited to collaborate on interesting and impactful projects—because the best models 
+        don’t just memorize data; they actually understand it (unlike some frameworks that shall not 
+        be named 👀). If you're into building smart systems, pushing boundaries, or just agreeing 
+        that PyTorch > TensorFlow, let’s connect!<br><br>
+
+        <b>Stats Below!</b>
+    </i><br><br>
+
     <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.kaggle.com/rohanmahishi">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
 </p>
+
 
 ### Languages
 ![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
