@@ -1,11 +1,12 @@
-<h1 align="center">Hello Traveller! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">logits = torch.softmax(torch.tensor([‘Hello!’, ‘Hi!’, ‘Hey!’]), dim=0); print(logits.argmax()) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Rohan.<br>
-        Currently Pursuing Machine Learning and Deep Learning with a Strong Emphasis on Generative Solutions.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently diving deep into Machine Learning and Deep Learning, exploring how models learn, adapt, and (hopefully) don’t overfit their way into oblivion. Whether it’s fine-tuning architectures, making sense of messy data, or trying to squeeze out that last bit of performance, I love the process of turning raw data into real insights.
+
+Always excited to collaborate on interesting and impactful projects—because the best solutions don’t come from just crunching numbers but from asking the right questions. If you're into building smart systems, pushing boundaries, or just geeking out over ML, let’s connect! <br>
         Stats Below!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
