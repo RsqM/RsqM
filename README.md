@@ -1,30 +1,21 @@
 <h1 align="center">logits = torch.softmax(torch.tensor([‘Hello!’, ‘Hi!’, ‘Hey!’]), dim=0); print(logits.argmax()) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm Rohan.<br>
-        Currently deep into Machine Learning and Deep Learning, where models learn, weights adjust, 
-        and occasionally, things just refuse to converge. Whether it’s fine-tuning architectures, 
-        wrangling messy data, or chasing that last bit of performance, I love the challenge of 
-        turning numbers into something meaningful.<br><br>
-
-        Always excited to collaborate on interesting and impactful projects—because the best models 
-        don’t just memorize data; they actually understand it (unlike some frameworks that shall not 
-        be named 👀). If you're into building smart systems, pushing boundaries, or just agreeing 
-        that PyTorch > TensorFlow, let’s connect!<br><br>
-
-        <b>Stats Below!</b>
-    </i><br><br>
-
-    <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.kaggle.com/rohanmahishi">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
+  <b>Welcome to my page!</b><br><br>
+  <i>
+    I'm Rohan.<br>
+    Currently deep into Machine Learning and Deep Learning, where models learn, weights adjust, and occasionally, things just refuse to converge. Whether it’s fine-tuning architectures, wrangling messy data, or chasing that last bit of performance, I love the challenge of turning numbers into something meaningful.<br><br>
+    Always excited to collaborate on interesting and impactful projects—because the best models don’t just memorize data; they actually understand it (unlike some frameworks that shall not be named 👀). If you're into building smart systems, pushing boundaries, or just agreeing that PyTorch &gt; TensorFlow, let’s connect!<br>
+    Stats Below!<br>
+  </i><br>
+  <a href="https://www.linkedin.com/in/rohan-mahishi-a136b8256/?originalSubdomain=in">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.kaggle.com/rohanmahishi">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+  </a>
 </p>
+
 
 
 ### Languages
