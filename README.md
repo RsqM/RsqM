@@ -1,6 +1,6 @@
 <h1 align="center">
-    import torch
-    logits = torch.softmax(torch.tensor([1.0, 1.0, 1.0]), dim=0)  
+    import torch;
+    logits = torch.softmax(torch.tensor([1.0, 1.0, 1.0]), dim=0);
     print(["Hello!", "Hi!", "Hey!"][logits.argmax().item()])
 </h1>
 
